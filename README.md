@@ -1,14 +1,6 @@
 # Search UI 💅🏻
 I designed a search UI with Jetpack Compose. You can use this UI and customize for your own project!  👾
 
-You can scroll screen. 
-
-~ Jetpack Compose
-
-~ Lazy Column
-
-~ Coil Library
-
 ## Preview 👀
 <table>
   <tr>
