@@ -1,6 +1,8 @@
 # Search UI 💅🏻
 I designed a search UI with Jetpack Compose. You can use this UI and customize for your own project!  👾
 
+⭐️ [Icon Pack!](https://www.flaticon.com/packs/office-386)
+
 ## Preview 👀
 <table>
   <tr>
